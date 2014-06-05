@@ -1,0 +1,12 @@
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\practica 6\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\practica-6\practica 6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Practica 6\bin\Debug\Practica 6.exe
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Practica 6\bin\Debug\Practica 6.pdb
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Practica 6\bin\Debug\MySql.Data.dll
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Practica 6\obj\Debug\Practica 6.exe
+C:\Users\Bel Kiel\Documents\SharpDevelop Projects\Practica 6\obj\Debug\Practica 6.pdb
+I:\Programación III\Proyectos\practica 6\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\practica 6\obj\Debug\Practica 6.exe
+I:\Programación III\Proyectos\practica 6\bin\Debug\Practica 6.exe
+I:\Programación III\Proyectos\practica 6\bin\Debug\Practica 6.pdb
+I:\Programación III\Proyectos\practica 6\obj\Debug\Practica 6.pdb
